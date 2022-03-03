@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mshanga
+- 👋 Hi, I’m @mshangacom
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Uzabay
-- 📫 How to reach me @mshanga
+- 📫 How to reach me @mshangacom
 
 <!---
 mshanga/mshanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
