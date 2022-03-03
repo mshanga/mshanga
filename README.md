@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mshanga
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Magento
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Uzabay
 - 📫 How to reach me @mshanga
 
