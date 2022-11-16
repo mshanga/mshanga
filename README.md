@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mshangacom
+- 👋 Hi, I’m @0xMshanga
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS & GCP
 - 💞️ I’m looking to collaborate on Uzabay
 - 📫 How to reach me @mshangacom
 
