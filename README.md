@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning AWS & GCP
 - 💞️ I’m looking to collaborate on Uzabay
-- 📫 How to reach me @mshangacom
+- 📫 How to reach me @0xMshanga
 
 <!---
 mshanga/mshanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
