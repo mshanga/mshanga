@@ -3,11 +3,11 @@
 ====================================== */
 
 /*
-    Theme Name: MegaOne
-    Theme URI:
-    Author: Themes Industry
-    Author URI:
-    Description: One Page Parallax Template
+    Theme Name: Mshan.ga
+    Theme URI: Mshan.ga
+    Author: Emmanuel Mshanga Makonde
+    Author URI: Mshan.ga
+    Description: Mshan.ga Portfollio
     Tags: one page, multipurpose, parallax, creative, html5
  */
 
@@ -26,7 +26,7 @@
     - Portfolio
     - Blog
     - Contact
-    - Loader
+    - loader
     - Media Queries   */
 
 /* ===================================
@@ -107,7 +107,7 @@ section{padding: 0;}
 .bg-pink {background: #9a004c;}
 .bg-yellow {background: #ca9800;}
 .text-light-black {background: #232728;}
-.bg-blue {background: #11769e;}
+.bg-blue {background: #0d6183;}
 .bg-red {background: #790707;}
 .bg-transparent {background: transparent;}
 
@@ -1648,11 +1648,115 @@ svg.slider-shape{
     transform: none !important;
 }
 
+
+/* ===================================
+   loader
+====================================== */
+
+.loader-bg {
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+    height: 100%;
+    background: #00b7ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #0176ff, #00b7ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #0176ff, #00b7ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.loader {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 175px;
+    height: 100px;
+}
+
+.loader span {
+    display: block;
+    width: 7px;
+    height: 10%;
+    border-radius: 14px;
+    margin-right: 5px;
+    float: left;
+    margin-top: 25%;
+    background: #ffffff;
+}
+
+.loader span:last-child {
+    margin-right: 0;
+}
+.loader span:nth-child(1) {
+    animation: load 2.5s 1.4s infinite linear;
+}
+.loader span:nth-child(2) {
+    animation: load 2.5s 1.2s infinite linear;
+}
+.loader span:nth-child(3) {
+    animation: load 2.5s 1s infinite linear;
+}
+.loader span:nth-child(4) {
+    animation: load 2.5s 0.8s infinite linear;
+}
+.loader span:nth-child(5) {
+    animation: load 2.5s 0.6s infinite linear;
+}
+.loader span:nth-child(6) {
+    animation: load 2.5s 0.4s infinite linear;
+}
+.loader span:nth-child(7) {
+    animation: load 2.5s 0.2s infinite linear;
+}
+.loader span:nth-child(8) {
+    animation: load 2.5s 0s infinite linear;
+}
+.loader span:nth-child(9) {
+    animation: load 2.5s 0.2s infinite linear;
+}
+.loader span:nth-child(10) {
+    animation: load 2.5s 0.4s infinite linear;
+}
+.loader span:nth-child(11) {
+    animation: load 2.5s 0.6s infinite linear;
+}
+.loader span:nth-child(12) {
+    animation: load 2.5s 0.8s infinite linear;
+}
+.loader span:nth-child(13) {
+    animation: load 2.5s 1s infinite linear;
+}
+.loader span:nth-child(14) {
+    animation: load 2.5s 1.2s infinite linear;
+}
+.loader span:nth-child(15) {
+    animation: load 2.5s 1.4s infinite linear;
+}
+
+@keyframes load {
+    0% {
+        background: #002450;
+        margin-top: 25%;
+        height: 10%;
+    }
+    50% {
+        background: #002450;
+        height: 100%;
+        margin-top: 0;
+    }
+    100% {
+        background: #002450;
+        height: 10%;
+        margin-top: 25%;
+    }
+}
+
 /* ===================================
         Preloader
    ====================================== */
 
-.loader {
+/* .loader {
     background: #fff;
     text-align: center;
     height: 100vh;
@@ -1725,7 +1829,7 @@ svg.slider-shape{
         left: 100%;
         width: 10%;
     }
-}
+}  */
 
 /* ===================================
    Media Queries
