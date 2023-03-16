@@ -781,7 +781,7 @@ section{padding: 0;}
 ====================================== */
 
 .slider-area{
-    background-image: url("../images/banner.png");
+    background-image: url("../images/banner.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -889,7 +889,7 @@ svg.slider-shape{
 ====================================== */
 
 .about{
-    background-image: url("../images/skills-bg.png");
+    background-image: url("../images/banner.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -971,7 +971,7 @@ svg.slider-shape{
 ====================================== */
 
 .team{
-    background-image: url("../images/team-bg.png");
+    background-image: url("../images/banner.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1094,7 +1094,7 @@ svg.slider-shape{
 ====================================== */
 
 .portfolio-bg{
-    background-image: url("../images/portfolio-bg.png");
+    background-image: url("../images/banner.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1309,7 +1309,7 @@ svg.slider-shape{
 ====================================== */
 
 .blog-bg{
-    background-image: url("../images/blog-bg.png");
+    background-image: url("../images/banner.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1405,7 +1405,7 @@ svg.slider-shape{
 ====================================== */
 
 .contact-sec{
-    background-image: url("../images/contact-bg.png");
+    background-image: url("../images/banner.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
