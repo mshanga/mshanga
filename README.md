@@ -1,8 +1,8 @@
 
 - 👋 Hi, I'm Emmanuel Mshanga Makonde
 - 📧 info@makonde.tech 🌐 makonde.tech
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Software Development at ALX Africa
+- 👀 I’m a Full-stack Web Developer
+- 🌱 I’m currently learning Software Engineering at ALX Africa
 - 📫 How to reach me @makondetech
   
 
