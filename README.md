@@ -1,5 +1,6 @@
 
-- 👋 Hi, I'm Emmanuel Mshanga Makonde
+  <h1 align="center">👋 Hi, I'm Emmanuel Mshanga Makonde </h1>
+
 - 📧 info@makonde.tech 🌐 makonde.tech
 - 👀 I’m a Full-stack Web Developer
 - 🌱 I’m currently learning Software Engineering at ALX Africa
