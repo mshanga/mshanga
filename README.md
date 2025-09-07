@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Emmanuel Makonde  
+# 👋 Hi, I’m Emmanuel Mshanga Makonde  
 
-💻 **System Administrator | Web Developer | Cloud Engineer (in progress)**  
+💻 **System Administrator | Web Developer | Cloud Engineer**  
 
 I’m a tech professional with **10+ years of experience in IT operations** (Linux/Windows server administration, networking, enterprise systems) and hands-on **web development** (React, Next.js, PHP, WordPress).  
 
@@ -11,7 +11,7 @@ Currently, I’m focusing on **AWS Cloud Engineering** — blending my sysadmin 
 ## 🔧 Tech Background
 
 - **System Administration (10+ years):**  
-  Server setup & hardening (Linux/Windows) · Active Directory · Networking & PBX (Panasonic) · Monitoring · Backups & DR
+  Server setup & hardening (Linux/Windows) · Active Directory · Networking · Monitoring · Backups & DR
 
 - **Web Development (5+ years):**  
   Frontend: React, Next.js, JavaScript, HTML, CSS  
@@ -19,7 +19,7 @@ Currently, I’m focusing on **AWS Cloud Engineering** — blending my sysadmin 
   CMS: WordPress (themes, plugins, migrations)  
   Deployment: Apache, Nginx, cPanel, VPS  
 
-- **Cloud & DevOps (Current Focus):**  
+- **Cloud & DevOps :**  
   AWS (EC2, S3, RDS, IAM, VPC, CloudFront, Route 53, Lambda)  
   Azure (VMs, Storage, Networking, Monitoring, AD)  
   IaC: Terraform, CloudFormation  
@@ -59,7 +59,7 @@ Currently, I’m focusing on **AWS Cloud Engineering** — blending my sysadmin 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-makonde)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:emmanuel@homelandteq.com)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:emakonde@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-mshanga-black?style=for-the-badge&logo=github)](https://github.com/mshanga)  
 
 ---
